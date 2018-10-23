@@ -6,14 +6,14 @@ function TINITmodel = getINITmodelFromPostProbs(patientIndex,probabilityThreshol
 % scores and tasks must be specified within this script. 
 
 %%% Initialize path
-ravenPath  = genpath('/c3se/users/gatto/Hebbe/tools/RAVEN/');
-mosek7path = genpath('/c3se/users/gatto/Hebbe/mosek/');
+ravenPath  = genpath('/path/to/RAVEN/');
+mosek7path = genpath('/path/to/mosek/7');
 addpath(ravenPath);
 addpath(mosek7path);
 
 % Load data
 load ../cHMR3765_20140415
-load ../pP.mat
+load ../data/pP.mat
 load ../cHMR3765_Tasks     %Task structure
 if exist('hotStart.mat','file')==2
     load ../hotStart.mat                   %MILP Hot Start

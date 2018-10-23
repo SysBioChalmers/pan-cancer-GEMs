@@ -6,8 +6,8 @@ function TINITmodel = getINITmodelFromPostProbs(patientIndex,probabilityThreshol
 % scores and tasks must be specified within this script. 
 
 %%% Initialize path
-ravenPath  = genpath('/c3se/users/gatto/Glenn/RAVEN/');
-mosek7path = genpath('/c3se/users/gatto/Glenn/mosek/7');
+ravenPath  = genpath('/path/to/RAVEN/');
+mosek7path = genpath('/path/to/mosek/7');
 addpath(ravenPath);
 addpath(mosek7path);
 
