@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="3000px" height="3000px" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<g id="ideograms">
+<path d="M2168.860,2435.482 A1150.000,1150.000 40.000 1,1 1500.000,350.000 L1500.000,150.000 A1350.000,1350.000 0.000 1,0 2285.184,2598.174 Z" style="stroke-linecap:round;fill:rgb(217,95,14);" />
+<path d="M2286.728,2338.784 A1150.000,1150.000 40.000 0,1 2205.524,2408.150 L2328.223,2566.089 A1350.000,1350.000 0.000 0,0 2423.551,2484.659 Z" style="stroke-linecap:round;fill:rgb(254,196,79);" />
+<path d="M2650.000,1499.793 A1150.000,1150.000 40.000 0,1 2319.476,2306.821 L2461.993,2447.137 A1350.000,1350.000 0.000 0,0 2850.000,1499.757 Z" style="stroke-linecap:round;fill:rgb(255,247,188);" />
+<path d="M1544.701,350.869 A1150.000,1150.000 40.000 0,1 2649.083,1454.074 L2848.923,1446.086 A1350.000,1350.000 0.000 0,0 1552.475,151.020 Z" style="stroke-linecap:round;fill:rgb(103,169,207);" />
+</g>
+</svg>

@@ -1,0 +1,4 @@
+chr	-	corepan	pan	0	2851	ylorbr-3-seq-3
+chr	-	coreiso	iso	0	69	ylorbr-3-seq-2
+chr	-	coreconn	conn	0	590	ylorbr-3-seq-1
+chr	-	cntx	cntx	0	3455	rdbu-3-div-3

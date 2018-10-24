@@ -11,6 +11,9 @@ called "Pan-cancer analysis of the metabolic reaction network".
 The first set is the discovery set and contains 917 GEMs.
 The first set is the validation set and contains 3933 GEMs.
 
+The reconstruction can be launched by running the script getINITmodelFromPostProbs.m. It depends on Raven 1.4 and Mosek 7, 
+whose path shall be specified within the script.
+
 ## List of reconstructed models in discovery set and corresponding samples in TCGA
 |Model ID|TCGA PSID|
 |--------|---------|
@@ -933,6 +936,8 @@ The first set is the validation set and contains 3933 GEMs.
 |TCGA-63-6202-01A-11R-1820-07T9900RG5.mat|TCGA-63-6202-01A-11R-1820|
 
 ## List of reconstructed models in validation set and corresponding samples in TCGA
+|Model ID|TCGA PSID|
+|--------|---------|
 |TCGA-GD-A3OQ-01A-32R-A220-07T9800RG5_TINIT.mat|TCGA-GD-A3OQ-01A-32R-A220-07|
 |TCGA-E2-A15I-11A-32R-A137-07T9800RG5_TINIT.mat|TCGA-E2-A15I-11A-32R-A137-07|
 |TCGA-AR-A1AL-01A-21R-A12P-07T9800RG5_TINIT.mat|TCGA-AR-A1AL-01A-21R-A12P-07|
