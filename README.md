@@ -9,7 +9,7 @@ These GEMs were reconstructed as part of a study published in bioRxiv (http://bi
 called "Pan-cancer analysis of the metabolic reaction network".
 
 The first set is the discovery set and contains 917 GEMs.
-The first set is the validation set and contains 3933 GEMs.
+The second set is the validation set and contains 3933 GEMs.
 
 The reconstruction can be launched by running the script getINITmodelFromPostProbs.m. It depends on Raven 1.4 and Mosek 7, 
 whose path shall be specified within the script.
