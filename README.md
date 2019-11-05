@@ -5,10 +5,10 @@ profiles from primary tumor samples in The Cancer Genome Atlas (TCGA) into a ref
 metabolism, HMR2.0. The reference GEM was modified to include a cancer biomass equation and it is
 provided in this repository as "cHMR2.xml".
 
-These GEMs were reconstructed as part of a study published in bioRxiv (http://biorxiv.org/content/early/2016/04/26/050187), 
-called "Pan-cancer analysis of the metabolic reaction network".
+These GEMs were reconstructed as part of the study: Gatto et al. (2019) "Pan-cancer analysis of the metabolic reaction network", Metabolic Engineering 57, January 2020, pp. 51-62 (https://doi.org/10.1016/j.ymben.2019.09.006).
 
 The first set is the discovery set and contains 917 GEMs.
+
 The second set is the validation set and contains 3933 GEMs.
 
 The reconstruction can be launched by running the script getINITmodelFromPostProbs.m. It depends on Raven 1.4 and Mosek 7, 
